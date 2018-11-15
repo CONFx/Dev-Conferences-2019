@@ -12,7 +12,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@fitc",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5589",
+        "link": "https:\/\/confx.com\/e\/5589",
         "tags": [
             {
                 "name": "Frontend"
@@ -34,7 +34,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@refreshcon",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5590",
+        "link": "https:\/\/confx.com\/e\/5590",
         "tags": [
             {
                 "name": "Frontend"
@@ -53,7 +53,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@dotCSS",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5591",
+        "link": "https:\/\/confx.com\/e\/5591",
         "tags": [
             {
                 "name": "Frontend"
@@ -72,7 +72,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@kotlinconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5623",
+        "link": "https:\/\/confx.com\/e\/5623",
         "tags": [
             {
                 "name": "Android"
@@ -91,7 +91,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@mobiconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5624",
+        "link": "https:\/\/confx.com\/e\/5624",
         "tags": [
             {
                 "name": "Android"
@@ -113,7 +113,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/onticoconferences.typeform.com\/to\/Rb1GCj",
         "call_for_papers_date": "2018-08-03 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5625",
+        "link": "https:\/\/confx.com\/e\/5625",
         "tags": [
             {
                 "name": "Android"
@@ -135,7 +135,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devfest_ukraine",
         "call_for_papers_url": "https:\/\/sessionize.com\/dfua",
         "call_for_papers_date": "2018-07-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5626",
+        "link": "https:\/\/confx.com\/e\/5626",
         "tags": [
             {
                 "name": "Android"
@@ -154,7 +154,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@gdgcampinas",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ\/viewform",
         "call_for_papers_date": "2018-09-02 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5627",
+        "link": "https:\/\/confx.com\/e\/5627",
         "tags": [
             {
                 "name": "Android"
@@ -176,7 +176,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@mobileeraconf",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q\/viewform",
         "call_for_papers_date": "2018-05-17 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5628",
+        "link": "https:\/\/confx.com\/e\/5628",
         "tags": [
             {
                 "name": "Android"
@@ -198,7 +198,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@droidconSF",
         "call_for_papers_url": "https:\/\/sf.droidcon.com\/speak",
         "call_for_papers_date": "2018-09-02 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5629",
+        "link": "https:\/\/confx.com\/e\/5629",
         "tags": [
             {
                 "name": "Android"
@@ -217,7 +217,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@oredev",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5630",
+        "link": "https:\/\/confx.com\/e\/5630",
         "tags": [
             {
                 "name": "Android"
@@ -236,7 +236,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@androidTO",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc3cfxlsKucSFSYpOXD0KxufP0cZNMItwuDGy0O4w7T5tbYoQ\/viewform",
         "call_for_papers_date": "2018-09-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5631",
+        "link": "https:\/\/confx.com\/e\/5631",
         "tags": [
             {
                 "name": "Android"
@@ -255,7 +255,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@AndroidDev",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5632",
+        "link": "https:\/\/confx.com\/e\/5632",
         "tags": [
             {
                 "name": "Android"
@@ -274,7 +274,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devfestbaltics",
         "call_for_papers_url": "https:\/\/www.papercall.io\/devfest-baltics-18",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5633",
+        "link": "https:\/\/confx.com\/e\/5633",
         "tags": [
             {
                 "name": "Android"
@@ -296,7 +296,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@dachfest",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5634",
+        "link": "https:\/\/confx.com\/e\/5634",
         "tags": [
             {
                 "name": "Android"
@@ -315,7 +315,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@EventsEmerging",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5650",
+        "link": "https:\/\/confx.com\/e\/5650",
         "tags": [
             {
                 "name": "Data"
@@ -331,7 +331,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/www.webdirections.org\/speaking",
         "call_for_papers_date": "2018-05-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5651",
+        "link": "https:\/\/confx.com\/e\/5651",
         "tags": [
             {
                 "name": "Data"
@@ -347,7 +347,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@bigdata_ldn",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5652",
+        "link": "https:\/\/confx.com\/e\/5652",
         "tags": [
             {
                 "name": "Data"
@@ -366,7 +366,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/aiworld.com\/call-for-speakers",
         "call_for_papers_date": "2018-05-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5653",
+        "link": "https:\/\/confx.com\/e\/5653",
         "tags": [
             {
                 "name": "Data"
@@ -382,7 +382,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5654",
+        "link": "https:\/\/confx.com\/e\/5654",
         "tags": [
             {
                 "name": "Data"
@@ -398,7 +398,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@datascicon",
         "call_for_papers_url": "http:\/\/datascicon.tech\/cfp.html",
         "call_for_papers_date": "2018-10-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5655",
+        "link": "https:\/\/confx.com\/e\/5655",
         "tags": [
             {
                 "name": "Data"
@@ -414,7 +414,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5657",
+        "link": "https:\/\/confx.com\/e\/5657",
         "tags": [
             {
                 "name": "Data"
@@ -433,7 +433,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@rakuten_tech",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5658",
+        "link": "https:\/\/confx.com\/e\/5658",
         "tags": [
             {
                 "name": "Data"
@@ -452,7 +452,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@WeAreDevs",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5659",
+        "link": "https:\/\/confx.com\/e\/5659",
         "tags": [
             {
                 "name": "Data"
@@ -468,7 +468,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5704",
+        "link": "https:\/\/confx.com\/e\/5704",
         "tags": [
             {
                 "name": "DevOps"
@@ -484,7 +484,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5705",
+        "link": "https:\/\/confx.com\/e\/5705",
         "tags": [
             {
                 "name": "DevOps"
@@ -500,7 +500,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5706",
+        "link": "https:\/\/confx.com\/e\/5706",
         "tags": [
             {
                 "name": "DevOps"
@@ -516,7 +516,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5707",
+        "link": "https:\/\/confx.com\/e\/5707",
         "tags": [
             {
                 "name": "DevOps"
@@ -532,7 +532,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5708",
+        "link": "https:\/\/confx.com\/e\/5708",
         "tags": [
             {
                 "name": "DevOps"
@@ -548,7 +548,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ContainerDayIt",
         "call_for_papers_url": "https:\/\/goo.gl\/forms\/yuEjoOWzLb5x04bQ2",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5709",
+        "link": "https:\/\/confx.com\/e\/5709",
         "tags": [
             {
                 "name": "DevOps"
@@ -564,7 +564,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5710",
+        "link": "https:\/\/confx.com\/e\/5710",
         "tags": [
             {
                 "name": "DevOps"
@@ -583,7 +583,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ConLifecycle ",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5711",
+        "link": "https:\/\/confx.com\/e\/5711",
         "tags": [
             {
                 "name": "DevOps"
@@ -599,7 +599,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5712",
+        "link": "https:\/\/confx.com\/e\/5712",
         "tags": [
             {
                 "name": "DevOps"
@@ -615,7 +615,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@eficode",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5713",
+        "link": "https:\/\/confx.com\/e\/5713",
         "tags": [
             {
                 "name": "DevOps"
@@ -631,7 +631,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@DevOpsDaysTLV",
         "call_for_papers_url": "https:\/\/www.papercall.io\/devopsdaystlv2018\/",
         "call_for_papers_date": "2018-09-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5714",
+        "link": "https:\/\/confx.com\/e\/5714",
         "tags": [
             {
                 "name": "DevOps"
@@ -647,7 +647,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devopsdaysgal",
         "call_for_papers_url": "https:\/\/www.devopsdays.org\/events\/2018-galway\/propose\/",
         "call_for_papers_date": "2018-09-02 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5716",
+        "link": "https:\/\/confx.com\/e\/5716",
         "tags": [
             {
                 "name": "DevOps"
@@ -663,7 +663,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/opensourcecamp.de\/submit-a-talk\/",
         "call_for_papers_date": "2018-09-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5717",
+        "link": "https:\/\/confx.com\/e\/5717",
         "tags": [
             {
                 "name": "DevOps"
@@ -679,7 +679,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/sessionize.com\/devopsheroes-2018\/",
         "call_for_papers_date": "2018-09-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5718",
+        "link": "https:\/\/confx.com\/e\/5718",
         "tags": [
             {
                 "name": "DevOps"
@@ -695,7 +695,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5719",
+        "link": "https:\/\/confx.com\/e\/5719",
         "tags": [
             {
                 "name": "DevOps"
@@ -711,7 +711,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@KubeCon_",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5720",
+        "link": "https:\/\/confx.com\/e\/5720",
         "tags": [
             {
                 "name": "DevOps"
@@ -727,7 +727,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@vslive",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5726",
+        "link": "https:\/\/confx.com\/e\/5726",
         "tags": [
             {
                 "name": "Dot NET"
@@ -743,7 +743,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@DotNextConf",
         "call_for_papers_url": "https:\/\/dotnext-moscow.ru\/callforpapers\/",
         "call_for_papers_date": "2018-09-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5727",
+        "link": "https:\/\/confx.com\/e\/5727",
         "tags": [
             {
                 "name": "Dot NET"
@@ -759,7 +759,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5728",
+        "link": "https:\/\/confx.com\/e\/5728",
         "tags": [
             {
                 "name": "Javascript"
@@ -778,7 +778,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@techbash",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5730",
+        "link": "https:\/\/confx.com\/e\/5730",
         "tags": [
             {
                 "name": "Dot NET"
@@ -794,7 +794,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@update_conf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5731",
+        "link": "https:\/\/confx.com\/e\/5731",
         "tags": [
             {
                 "name": "Dot NET"
@@ -813,7 +813,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@thebigelixir",
         "call_for_papers_url": "https:\/\/www.papercall.io\/the-big-elixir-2018",
         "call_for_papers_date": "2018-07-02 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5737",
+        "link": "https:\/\/confx.com\/e\/5737",
         "tags": [
             {
                 "name": "Elixir"
@@ -829,7 +829,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@GigCityElixir",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5738",
+        "link": "https:\/\/confx.com\/e\/5738",
         "tags": [
             {
                 "name": "Elixir"
@@ -845,7 +845,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5831",
+        "link": "https:\/\/confx.com\/e\/5831",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -860,7 +860,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@webcampzagreb",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5832",
+        "link": "https:\/\/confx.com\/e\/5832",
         "tags": [],
         "city": null
     },
@@ -872,7 +872,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@aneventapart",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5833",
+        "link": "https:\/\/confx.com\/e\/5833",
         "tags": [],
         "city": null
     },
@@ -884,7 +884,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/www.papercall.io\/polcarconf-2018",
         "call_for_papers_date": "2018-04-29 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5834",
+        "link": "https:\/\/confx.com\/e\/5834",
         "tags": [],
         "city": null
     },
@@ -896,7 +896,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@redevelopconf",
         "call_for_papers_url": "https:\/\/redevelop.io\/cfp",
         "call_for_papers_date": "2018-07-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5835",
+        "link": "https:\/\/confx.com\/e\/5835",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -911,7 +911,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@sv_code_camp",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5836",
+        "link": "https:\/\/confx.com\/e\/5836",
         "tags": [],
         "city": null
     },
@@ -923,7 +923,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devfestnantes",
         "call_for_papers_url": "https:\/\/cfp.gdgnantes.com\/public\/event\/inzOQDR94h4bAaOVd7Db",
         "call_for_papers_date": "2018-06-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5837",
+        "link": "https:\/\/confx.com\/e\/5837",
         "tags": [],
         "city": null
     },
@@ -935,7 +935,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devseccon",
         "call_for_papers_url": "https:\/\/www.devseccon.com\/call-for-proposals",
         "call_for_papers_date": "2018-06-18 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5838",
+        "link": "https:\/\/confx.com\/e\/5838",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -950,7 +950,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@SoftwareQSTag",
         "call_for_papers_url": "http:\/\/www.qs-tag.de\/en\/call-for-papers\/",
         "call_for_papers_date": "2018-08-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5839",
+        "link": "https:\/\/confx.com\/e\/5839",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -965,7 +965,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@AllThingsOpen",
         "call_for_papers_url": "https:\/\/allthingsopen.org\/call-for-papers",
         "call_for_papers_date": "2018-05-24 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5840",
+        "link": "https:\/\/confx.com\/e\/5840",
         "tags": [],
         "city": null
     },
@@ -977,7 +977,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/events.linuxfoundation.org\/events\/open-source-summit-europe-2018\/program\/cfp\/",
         "call_for_papers_date": "2018-07-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5841",
+        "link": "https:\/\/confx.com\/e\/5841",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -992,7 +992,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5842",
+        "link": "https:\/\/confx.com\/e\/5842",
         "tags": [],
         "city": null
     },
@@ -1004,7 +1004,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@CrowdWeek",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5843",
+        "link": "https:\/\/confx.com\/e\/5843",
         "tags": [],
         "city": null
     },
@@ -1016,7 +1016,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/www.webdirections.org\/speaking",
         "call_for_papers_date": "2018-05-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5844",
+        "link": "https:\/\/confx.com\/e\/5844",
         "tags": [],
         "city": null
     },
@@ -1028,7 +1028,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@webdirections",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5845",
+        "link": "https:\/\/confx.com\/e\/5845",
         "tags": [
             {
                 "name": "UX"
@@ -1047,7 +1047,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@cloudnativeil",
         "call_for_papers_url": "https:\/\/www.cloudnativeisrael.com\/call-for-papers",
         "call_for_papers_date": "2018-09-02 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5846",
+        "link": "https:\/\/confx.com\/e\/5846",
         "tags": [],
         "city": null
     },
@@ -1059,7 +1059,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devfesttoulouse",
         "call_for_papers_url": "https:\/\/devfest-toulouse.cfp.io\/",
         "call_for_papers_date": "2018-07-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5847",
+        "link": "https:\/\/confx.com\/e\/5847",
         "tags": [],
         "city": null
     },
@@ -1071,7 +1071,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@bdxio",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5848",
+        "link": "https:\/\/confx.com\/e\/5848",
         "tags": [],
         "city": null
     },
@@ -1083,7 +1083,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5849",
+        "link": "https:\/\/confx.com\/e\/5849",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -1098,7 +1098,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5850",
+        "link": "https:\/\/confx.com\/e\/5850",
         "tags": [],
         "city": null
     },
@@ -1110,7 +1110,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@codemotionIT",
         "call_for_papers_url": "https:\/\/milan2018.codemotionworld.com\/call-for-papers-guidelines\/",
         "call_for_papers_date": "2018-07-03 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5851",
+        "link": "https:\/\/confx.com\/e\/5851",
         "tags": [],
         "city": null
     },
@@ -1122,7 +1122,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@devternity",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5852",
+        "link": "https:\/\/confx.com\/e\/5852",
         "tags": [],
         "city": null
     },
@@ -1134,7 +1134,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@aneventapart",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5853",
+        "link": "https:\/\/confx.com\/e\/5853",
         "tags": [],
         "city": null
     },
@@ -1146,7 +1146,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@blkintechnology",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5854",
+        "link": "https:\/\/confx.com\/e\/5854",
         "tags": [],
         "city": null
     },
@@ -1158,7 +1158,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@BCTechConf",
         "call_for_papers_url": "https:\/\/blockchainconf.net\/call-for-papers-2018\/",
         "call_for_papers_date": "2018-06-11 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5857",
+        "link": "https:\/\/confx.com\/e\/5857",
         "tags": [],
         "city": null
     },
@@ -1170,7 +1170,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@theleaddev",
         "call_for_papers_url": "https:\/\/austin2018.theleaddeveloper.com\/cfp",
         "call_for_papers_date": "2018-08-03 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5858",
+        "link": "https:\/\/confx.com\/e\/5858",
         "tags": [],
         "city": null
     },
@@ -1182,7 +1182,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@_welovespeed",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5859",
+        "link": "https:\/\/confx.com\/e\/5859",
         "tags": [],
         "city": null
     },
@@ -1194,7 +1194,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jfutureby",
         "call_for_papers_url": "https:\/\/www.papercall.io\/jfuture",
         "call_for_papers_date": "2018-08-18 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5860",
+        "link": "https:\/\/confx.com\/e\/5860",
         "tags": [],
         "city": null
     },
@@ -1206,7 +1206,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@smashingconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5862",
+        "link": "https:\/\/confx.com\/e\/5862",
         "tags": [
             {
                 "name": "UX"
@@ -1225,7 +1225,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@goagiletour",
         "call_for_papers_url": "https:\/\/goagiletour.ca\/speakers",
         "call_for_papers_date": "2018-09-09 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5865",
+        "link": "https:\/\/confx.com\/e\/5865",
         "tags": [],
         "city": null
     },
@@ -1237,7 +1237,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@mobilizatonpl",
         "call_for_papers_url": "http:\/\/bit.ly\/mobilization8-c4p",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5866",
+        "link": "https:\/\/confx.com\/e\/5866",
         "tags": [
             {
                 "name": "Android"
@@ -1259,7 +1259,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@agileday",
         "call_for_papers_url": "https:\/\/www.agileday.it\/front\/call-for-sessions\/",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5867",
+        "link": "https:\/\/confx.com\/e\/5867",
         "tags": [],
         "city": null
     },
@@ -1271,7 +1271,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@samsung_dev",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5870",
+        "link": "https:\/\/confx.com\/e\/5870",
         "tags": [],
         "city": null
     },
@@ -1283,7 +1283,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@qtproject",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5871",
+        "link": "https:\/\/confx.com\/e\/5871",
         "tags": [],
         "city": null
     },
@@ -1295,7 +1295,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@netways",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5872",
+        "link": "https:\/\/confx.com\/e\/5872",
         "tags": [],
         "city": null
     },
@@ -1307,7 +1307,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@APICityConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5875",
+        "link": "https:\/\/confx.com\/e\/5875",
         "tags": [],
         "city": null
     },
@@ -1319,7 +1319,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@signalconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5877",
+        "link": "https:\/\/confx.com\/e\/5877",
         "tags": [],
         "city": null
     },
@@ -1331,7 +1331,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@GOTOcph",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5879",
+        "link": "https:\/\/confx.com\/e\/5879",
         "tags": [],
         "city": null
     },
@@ -1343,7 +1343,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@GOTOber",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5880",
+        "link": "https:\/\/confx.com\/e\/5880",
         "tags": [],
         "city": null
     },
@@ -1355,7 +1355,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@CodemoBerlin",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5881",
+        "link": "https:\/\/confx.com\/e\/5881",
         "tags": [],
         "city": null
     },
@@ -1367,7 +1367,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@fwd50conf",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdZ6d9rVxc22I0i1Qc6prOe4Vs_oNso35HPG5Q0fI_Oz6RD6w\/viewform",
         "call_for_papers_date": "2018-09-09 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5882",
+        "link": "https:\/\/confx.com\/e\/5882",
         "tags": [],
         "city": null
     },
@@ -1379,7 +1379,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@techonomy",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5883",
+        "link": "https:\/\/confx.com\/e\/5883",
         "tags": [],
         "city": null
     },
@@ -1391,7 +1391,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@apimixtape",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5884",
+        "link": "https:\/\/confx.com\/e\/5884",
         "tags": [
             {
                 "name": "Api"
@@ -1407,7 +1407,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@mongodb",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5885",
+        "link": "https:\/\/confx.com\/e\/5885",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -1422,7 +1422,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@skillsmatter",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5886",
+        "link": "https:\/\/confx.com\/e\/5886",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -1437,7 +1437,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@skillsmatter",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5887",
+        "link": "https:\/\/confx.com\/e\/5887",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -1452,7 +1452,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@TheChangeCon",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5888",
+        "link": "https:\/\/confx.com\/e\/5888",
         "tags": [],
         "city": null
     },
@@ -1464,7 +1464,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@yow_conf",
         "call_for_papers_url": "http:\/\/sydneyctosummit.yowconference.com.au\/call-for-presentations\/",
         "call_for_papers_date": "2018-10-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5889",
+        "link": "https:\/\/confx.com\/e\/5889",
         "tags": [],
         "city": null
     },
@@ -1476,7 +1476,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@yow_conf",
         "call_for_papers_url": "http:\/\/brisbanectosummit.yowconference.com.au\/call-for-presentations\/",
         "call_for_papers_date": "2018-10-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5890",
+        "link": "https:\/\/confx.com\/e\/5890",
         "tags": [],
         "city": null
     },
@@ -1488,7 +1488,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5900",
+        "link": "https:\/\/confx.com\/e\/5900",
         "tags": [
             {
                 "name": "Go"
@@ -1504,7 +1504,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@Gopherpalooza",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5902",
+        "link": "https:\/\/confx.com\/e\/5902",
         "tags": [
             {
                 "name": "Go"
@@ -1520,7 +1520,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@gogoconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5903",
+        "link": "https:\/\/confx.com\/e\/5903",
         "tags": [
             {
                 "name": "Go"
@@ -1536,7 +1536,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@GraphQLFinland",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5905",
+        "link": "https:\/\/confx.com\/e\/5905",
         "tags": [
             {
                 "name": "GraphQL"
@@ -1552,7 +1552,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/www.papercall.io\/graphql-summit",
         "call_for_papers_date": "2018-07-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/5906",
+        "link": "https:\/\/confx.com\/e\/5906",
         "tags": [
             {
                 "name": "GraphQL"
@@ -1568,7 +1568,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@SwiftxNW",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5926",
+        "link": "https:\/\/confx.com\/e\/5926",
         "tags": [
             {
                 "name": "Android"
@@ -1587,7 +1587,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@synesthesiait",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5927",
+        "link": "https:\/\/confx.com\/e\/5927",
         "tags": [
             {
                 "name": "Android"
@@ -1606,7 +1606,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@iOSConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/5928",
+        "link": "https:\/\/confx.com\/e\/5928",
         "tags": [
             {
                 "name": "Android"
@@ -1625,7 +1625,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ReactNext",
         "call_for_papers_url": "https:\/\/bit.ly\/reactnextcfp2018",
         "call_for_papers_date": "2018-07-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6028",
+        "link": "https:\/\/confx.com\/e\/6028",
         "tags": [
             {
                 "name": "Javascript"
@@ -1641,7 +1641,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@FrameworkSummit",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6039",
+        "link": "https:\/\/confx.com\/e\/6039",
         "tags": [
             {
                 "name": "Javascript"
@@ -1657,7 +1657,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/appel-orateurs.paris-web.fr",
         "call_for_papers_date": "2018-03-27 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6040",
+        "link": "https:\/\/confx.com\/e\/6040",
         "tags": [
             {
                 "name": "Javascript"
@@ -1673,7 +1673,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@reactjsday",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSco80pigNW6R-eQcSAuRl-Wv3BjRcvUKB-3AElkAI1SrcwjgA\/viewform",
         "call_for_papers_date": "2018-07-16 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6041",
+        "link": "https:\/\/confx.com\/e\/6041",
         "tags": [
             {
                 "name": "Javascript"
@@ -1689,7 +1689,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSccWR3j6wQ2dCvjCg-BODGzaEmkUfwgRqyYqivPr8bUBENjQg\/viewform",
         "call_for_papers_date": "2018-02-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6042",
+        "link": "https:\/\/confx.com\/e\/6042",
         "tags": [
             {
                 "name": "Javascript"
@@ -1705,7 +1705,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/events.linuxfoundation.org\/events\/js-interactive-2018",
         "call_for_papers_date": "2018-04-20 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6043",
+        "link": "https:\/\/confx.com\/e\/6043",
         "tags": [
             {
                 "name": "Javascript"
@@ -1724,7 +1724,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6044",
+        "link": "https:\/\/confx.com\/e\/6044",
         "tags": [
             {
                 "name": "Javascript"
@@ -1740,7 +1740,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ruhrjs",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg\/viewform",
         "call_for_papers_date": "2018-04-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6045",
+        "link": "https:\/\/confx.com\/e\/6045",
         "tags": [
             {
                 "name": "Javascript"
@@ -1756,7 +1756,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@mirrorconf",
         "call_for_papers_url": "https:\/\/www.papercall.io\/mirrorconf2018",
         "call_for_papers_date": "2018-07-16 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6046",
+        "link": "https:\/\/confx.com\/e\/6046",
         "tags": [
             {
                 "name": "UX"
@@ -1775,7 +1775,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@wdc_conference",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScjiQQ43sWklHpN9hOX-lRwD4zlUnAmV7ZC89-6SENckuD5Hw\/viewform",
         "call_for_papers_date": "2018-04-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6047",
+        "link": "https:\/\/confx.com\/e\/6047",
         "tags": [
             {
                 "name": "Javascript"
@@ -1794,7 +1794,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@connect_js",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6048",
+        "link": "https:\/\/confx.com\/e\/6048",
         "tags": [
             {
                 "name": "Javascript"
@@ -1810,7 +1810,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@cycleconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6049",
+        "link": "https:\/\/confx.com\/e\/6049",
         "tags": [
             {
                 "name": "Javascript"
@@ -1826,7 +1826,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@blendwebmix",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6050",
+        "link": "https:\/\/confx.com\/e\/6050",
         "tags": [
             {
                 "name": "Javascript"
@@ -1842,7 +1842,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ReactiveConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6051",
+        "link": "https:\/\/confx.com\/e\/6051",
         "tags": [
             {
                 "name": "Javascript"
@@ -1861,7 +1861,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ThunderPlains",
         "call_for_papers_url": "https:\/\/cfp.techlahoma.org\/events\/thunderplains-2018",
         "call_for_papers_date": "2018-08-06 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6052",
+        "link": "https:\/\/confx.com\/e\/6052",
         "tags": [
             {
                 "name": "Javascript"
@@ -1877,7 +1877,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@liberty_js",
         "call_for_papers_url": "https:\/\/www.papercall.io\/libertyjs-2018",
         "call_for_papers_date": "2018-09-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6053",
+        "link": "https:\/\/confx.com\/e\/6053",
         "tags": [
             {
                 "name": "Javascript"
@@ -1893,7 +1893,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@RVAJavaScript",
         "call_for_papers_url": "https:\/\/www.papercall.io\/rvajavascript2018",
         "call_for_papers_date": "2018-08-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6054",
+        "link": "https:\/\/confx.com\/e\/6054",
         "tags": [
             {
                 "name": "Javascript"
@@ -1909,7 +1909,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@vuefes",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6055",
+        "link": "https:\/\/confx.com\/e\/6055",
         "tags": [
             {
                 "name": "Javascript"
@@ -1925,7 +1925,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@NodeConfEU",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdVXMZrV51hxGYYpz4OWxBfAEkwvBT0vsATWaLRUo1s_S4NdQ\/viewform",
         "call_for_papers_date": "2018-06-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6056",
+        "link": "https:\/\/confx.com\/e\/6056",
         "tags": [
             {
                 "name": "Javascript"
@@ -1941,7 +1941,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@WebSummit",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6057",
+        "link": "https:\/\/confx.com\/e\/6057",
         "tags": [
             {
                 "name": "Javascript"
@@ -1957,7 +1957,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@AngularConnect",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6058",
+        "link": "https:\/\/confx.com\/e\/6058",
         "tags": [
             {
                 "name": "Javascript"
@@ -1976,7 +1976,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ffconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6059",
+        "link": "https:\/\/confx.com\/e\/6059",
         "tags": [
             {
                 "name": "Javascript"
@@ -1995,7 +1995,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@perfnowconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6060",
+        "link": "https:\/\/confx.com\/e\/6060",
         "tags": [
             {
                 "name": "Javascript"
@@ -2011,7 +2011,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@dotJS",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6061",
+        "link": "https:\/\/confx.com\/e\/6061",
         "tags": [
             {
                 "name": "Javascript"
@@ -2027,7 +2027,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@coldfrontconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6062",
+        "link": "https:\/\/confx.com\/e\/6062",
         "tags": [
             {
                 "name": "Javascript"
@@ -2043,7 +2043,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ngPolandConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6063",
+        "link": "https:\/\/confx.com\/e\/6063",
         "tags": [
             {
                 "name": "Javascript"
@@ -2059,7 +2059,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@CascadiaJS",
         "call_for_papers_url": "https:\/\/2018.cascadiajs.com\/call-for-presenters",
         "call_for_papers_date": "2018-07-20 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6064",
+        "link": "https:\/\/confx.com\/e\/6064",
         "tags": [
             {
                 "name": "Javascript"
@@ -2075,7 +2075,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@london_ajax",
         "call_for_papers_url": null,
         "call_for_papers_date": "2018-07-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6065",
+        "link": "https:\/\/confx.com\/e\/6065",
         "tags": [
             {
                 "name": "Javascript"
@@ -2094,7 +2094,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g\/viewform",
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6066",
+        "link": "https:\/\/confx.com\/e\/6066",
         "tags": [
             {
                 "name": "Javascript"
@@ -2110,7 +2110,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jsconfco",
         "call_for_papers_url": "https:\/\/cfp.jsconf.co",
         "call_for_papers_date": "2018-06-20 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6067",
+        "link": "https:\/\/confx.com\/e\/6067",
         "tags": [
             {
                 "name": "Javascript"
@@ -2129,7 +2129,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@nodeconfar",
         "call_for_papers_url": "https:\/\/2018.nodeconf.com.ar\/cfp.html",
         "call_for_papers_date": "2018-06-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6068",
+        "link": "https:\/\/confx.com\/e\/6068",
         "tags": [
             {
                 "name": "Javascript"
@@ -2145,7 +2145,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@pixelpioneers",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6069",
+        "link": "https:\/\/confx.com\/e\/6069",
         "tags": [
             {
                 "name": "UX"
@@ -2167,7 +2167,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@HolyJSconf",
         "call_for_papers_url": "https:\/\/holyjs-moscow.ru\/en\/callforpapers\/",
         "call_for_papers_date": "2018-09-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6070",
+        "link": "https:\/\/confx.com\/e\/6070",
         "tags": [
             {
                 "name": "Javascript"
@@ -2183,7 +2183,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@JSKongress",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6071",
+        "link": "https:\/\/confx.com\/e\/6071",
         "tags": [
             {
                 "name": "Javascript"
@@ -2199,7 +2199,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@reactdayberlin",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdhlmyWCfAjXPsiBcV_dV31VQnJnbsumLHCTV6q2G4moGyOqA\/viewform",
         "call_for_papers_date": "2018-08-17 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6072",
+        "link": "https:\/\/confx.com\/e\/6072",
         "tags": [
             {
                 "name": "Javascript"
@@ -2215,7 +2215,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6073",
+        "link": "https:\/\/confx.com\/e\/6073",
         "tags": [
             {
                 "name": "Javascript"
@@ -2231,7 +2231,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@FrontEndConnect",
         "call_for_papers_url": "https:\/\/goo.gl\/forms\/8AmjsbNS6ENtxMvI2",
         "call_for_papers_date": "2018-07-23 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6074",
+        "link": "https:\/\/confx.com\/e\/6074",
         "tags": [
             {
                 "name": "Javascript"
@@ -2247,7 +2247,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6075",
+        "link": "https:\/\/confx.com\/e\/6075",
         "tags": [
             {
                 "name": "Javascript"
@@ -2263,7 +2263,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@viewsourceconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6078",
+        "link": "https:\/\/confx.com\/e\/6078",
         "tags": [
             {
                 "name": "UX"
@@ -2285,7 +2285,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@telerik",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6080",
+        "link": "https:\/\/confx.com\/e\/6080",
         "tags": [
             {
                 "name": "Javascript"
@@ -2301,7 +2301,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@nodejsconfit",
         "call_for_papers_url": "https:\/\/goo.gl\/forms\/rHSOn88FAz9992g32",
         "call_for_papers_date": "2018-07-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6081",
+        "link": "https:\/\/confx.com\/e\/6081",
         "tags": [
             {
                 "name": "Javascript"
@@ -2317,7 +2317,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@VueToronto",
         "call_for_papers_url": "https:\/\/jilsonthomas.typeform.com\/to\/Xxg8Gj",
         "call_for_papers_date": "2018-10-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6082",
+        "link": "https:\/\/confx.com\/e\/6082",
         "tags": [
             {
                 "name": "Javascript"
@@ -2333,7 +2333,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@reactjs",
         "call_for_papers_url": "https:\/\/goo.gl\/forms\/e7jNCVGuVya4ryWI2",
         "call_for_papers_date": "2018-08-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6083",
+        "link": "https:\/\/confx.com\/e\/6083",
         "tags": [
             {
                 "name": "Javascript"
@@ -2349,7 +2349,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@fullstackto",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6084",
+        "link": "https:\/\/confx.com\/e\/6084",
         "tags": [
             {
                 "name": "Javascript"
@@ -2365,7 +2365,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/www.papercall.io\/frontmania",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6085",
+        "link": "https:\/\/confx.com\/e\/6085",
         "tags": [
             {
                 "name": "Javascript"
@@ -2381,7 +2381,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@nationjs",
         "call_for_papers_url": "https:\/\/www.papercall.io\/nationjs-react2018",
         "call_for_papers_date": "2018-09-14 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6086",
+        "link": "https:\/\/confx.com\/e\/6086",
         "tags": [
             {
                 "name": "Javascript"
@@ -2397,7 +2397,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6087",
+        "link": "https:\/\/confx.com\/e\/6087",
         "tags": [
             {
                 "name": "Javascript"
@@ -2416,7 +2416,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6088",
+        "link": "https:\/\/confx.com\/e\/6088",
         "tags": [
             {
                 "name": "Javascript"
@@ -2435,7 +2435,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jsconf_am",
         "call_for_papers_url": "http:\/\/bit.ly\/speakJS",
         "call_for_papers_date": "2018-10-13 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6089",
+        "link": "https:\/\/confx.com\/e\/6089",
         "tags": [
             {
                 "name": "Javascript"
@@ -2451,7 +2451,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@zendcon",
         "call_for_papers_url": "http:\/\/www.zendcon.com\/cfp\/",
         "call_for_papers_date": "2018-05-25 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6113",
+        "link": "https:\/\/confx.com\/e\/6113",
         "tags": [
             {
                 "name": "PHP"
@@ -2467,7 +2467,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@symfonydayit",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeiBTMPyCiaiz1T6OcGgyy55pQubLtT6AjhsLxqa03tI8xgtQ\/viewform",
         "call_for_papers_date": "2018-06-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6114",
+        "link": "https:\/\/confx.com\/e\/6114",
         "tags": [
             {
                 "name": "PHP"
@@ -2483,7 +2483,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@phparch",
         "call_for_papers_url": "https:\/\/www.papercall.io\/phpworld2018",
         "call_for_papers_date": "2018-07-22 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6115",
+        "link": "https:\/\/confx.com\/e\/6115",
         "tags": [
             {
                 "name": "PHP"
@@ -2499,7 +2499,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@laraveldayit",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6116",
+        "link": "https:\/\/confx.com\/e\/6116",
         "tags": [
             {
                 "name": "PHP"
@@ -2515,7 +2515,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@Symfony_Live",
         "call_for_papers_url": "https:\/\/usa2018.live.symfony.com\/cfp",
         "call_for_papers_date": "2018-07-27 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6117",
+        "link": "https:\/\/confx.com\/e\/6117",
         "tags": [
             {
                 "name": "PHP"
@@ -2531,7 +2531,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@symfonycon",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6118",
+        "link": "https:\/\/confx.com\/e\/6118",
         "tags": [
             {
                 "name": "PHP"
@@ -2547,7 +2547,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@phpce_eu",
         "call_for_papers_url": "https:\/\/cfp.phpce.eu",
         "call_for_papers_date": "2018-07-24 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6120",
+        "link": "https:\/\/confx.com\/e\/6120",
         "tags": [
             {
                 "name": "PHP"
@@ -2566,7 +2566,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@phparch",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6121",
+        "link": "https:\/\/confx.com\/e\/6121",
         "tags": [
             {
                 "name": "PHP"
@@ -2585,7 +2585,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@pyconindia",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6133",
+        "link": "https:\/\/confx.com\/e\/6133",
         "tags": [
             {
                 "name": "Python"
@@ -2601,7 +2601,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@pyconca",
         "call_for_papers_url": "https:\/\/www.papercall.io\/pyconca2018",
         "call_for_papers_date": "2018-09-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6135",
+        "link": "https:\/\/confx.com\/e\/6135",
         "tags": [
             {
                 "name": "Python"
@@ -2617,7 +2617,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@PyNBO",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSf2cF2KxbI9XsEIHqBA2jEzx0S4fZ4_weK3HYMo10blq1mCWw\/viewform",
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6136",
+        "link": "https:\/\/confx.com\/e\/6136",
         "tags": [
             {
                 "name": "Python"
@@ -2633,7 +2633,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "http:\/\/rubyconf.my\/call-for-proposals\/",
         "call_for_papers_date": "2018-07-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6162",
+        "link": "https:\/\/confx.com\/e\/6162",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -2649,7 +2649,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@railsclub_ru",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfHVl62PcA5wiq4GVMG9xSgdu3h3R99xOH0UBuatjDg1ivv2w\/viewform",
         "call_for_papers_date": "2018-09-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6163",
+        "link": "https:\/\/confx.com\/e\/6163",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -2665,7 +2665,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@keeprubyweird",
         "call_for_papers_url": "https:\/\/www.papercall.io\/krw-2018",
         "call_for_papers_date": "2018-08-27 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6164",
+        "link": "https:\/\/confx.com\/e\/6164",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -2681,7 +2681,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6165",
+        "link": "https:\/\/confx.com\/e\/6165",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -2700,7 +2700,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@lambda_world",
         "call_for_papers_url": "http:\/\/www.lambda.world\/call-for-papers-2018\/",
         "call_for_papers_date": "2018-07-11 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6173",
+        "link": "https:\/\/confx.com\/e\/6173",
         "tags": [
             {
                 "name": "Scala"
@@ -2716,7 +2716,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@skillsmatter",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6175",
+        "link": "https:\/\/confx.com\/e\/6175",
         "tags": [
             {
                 "name": "Scala"
@@ -2735,7 +2735,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@heise_devSec",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6177",
+        "link": "https:\/\/confx.com\/e\/6177",
         "tags": [
             {
                 "name": "Security"
@@ -2751,7 +2751,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@Bsideslisbon",
         "call_for_papers_url": "https:\/\/www.bsideslisbon.org\/call-for-papers\/",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6178",
+        "link": "https:\/\/confx.com\/e\/6178",
         "tags": [
             {
                 "name": "Security"
@@ -2767,7 +2767,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/passwordscon.org\/cfp\/",
         "call_for_papers_date": "2018-08-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6180",
+        "link": "https:\/\/confx.com\/e\/6180",
         "tags": [
             {
                 "name": "Security"
@@ -2783,7 +2783,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@BSidesDC",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6181",
+        "link": "https:\/\/confx.com\/e\/6181",
         "tags": [
             {
                 "name": "Security"
@@ -2799,7 +2799,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@LavaCon",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6199",
+        "link": "https:\/\/confx.com\/e\/6199",
         "tags": [
             {
                 "name": "Tech Comm"
@@ -2815,7 +2815,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6200",
+        "link": "https:\/\/confx.com\/e\/6200",
         "tags": [
             {
                 "name": "Tech Comm"
@@ -2831,7 +2831,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@WriteTheDocsAU",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6201",
+        "link": "https:\/\/confx.com\/e\/6201",
         "tags": [
             {
                 "name": "Tech Comm"
@@ -2847,7 +2847,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@7ctos",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6202",
+        "link": "https:\/\/confx.com\/e\/6202",
         "tags": [
             {
                 "name": "Tech Comm"
@@ -2863,7 +2863,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6256",
+        "link": "https:\/\/confx.com\/e\/6256",
         "tags": [
             {
                 "name": "UX"
@@ -2879,7 +2879,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@midwestux",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6257",
+        "link": "https:\/\/confx.com\/e\/6257",
         "tags": [
             {
                 "name": "UX"
@@ -2895,7 +2895,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6258",
+        "link": "https:\/\/confx.com\/e\/6258",
         "tags": [
             {
                 "name": "UX"
@@ -2911,7 +2911,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@push_conf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6259",
+        "link": "https:\/\/confx.com\/e\/6259",
         "tags": [
             {
                 "name": "UX"
@@ -2927,7 +2927,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6260",
+        "link": "https:\/\/confx.com\/e\/6260",
         "tags": [
             {
                 "name": "UX"
@@ -2943,7 +2943,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@DesignUpConf",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/10TETca7YKDzFYadoL6QsEKR5H_Wb2sfDMzuiT-g12do\/edit",
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6261",
+        "link": "https:\/\/confx.com\/e\/6261",
         "tags": [
             {
                 "name": "UX"
@@ -2962,7 +2962,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@a11yclub",
         "call_for_papers_url": "https:\/\/colloq.io\/events\/accessibility-club\/2018\/berlin\/1\/callforpapers",
         "call_for_papers_date": "2018-07-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6262",
+        "link": "https:\/\/confx.com\/e\/6262",
         "tags": [
             {
                 "name": "UX"
@@ -2978,7 +2978,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@DSLconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6263",
+        "link": "https:\/\/confx.com\/e\/6263",
         "tags": [
             {
                 "name": "UX"
@@ -2997,7 +2997,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6676",
+        "link": "https:\/\/confx.com\/e\/6676",
         "tags": [
             {
                 "name": "Javascript"
@@ -3013,7 +3013,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6677",
+        "link": "https:\/\/confx.com\/e\/6677",
         "tags": [
             {
                 "name": "Javascript"
@@ -3032,7 +3032,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6678",
+        "link": "https:\/\/confx.com\/e\/6678",
         "tags": [
             {
                 "name": "Javascript"
@@ -3048,7 +3048,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6679",
+        "link": "https:\/\/confx.com\/e\/6679",
         "tags": [
             {
                 "name": "Javascript"
@@ -3064,7 +3064,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6680",
+        "link": "https:\/\/confx.com\/e\/6680",
         "tags": [
             {
                 "name": "Javascript"
@@ -3083,7 +3083,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6681",
+        "link": "https:\/\/confx.com\/e\/6681",
         "tags": [
             {
                 "name": "Javascript"
@@ -3102,7 +3102,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6682",
+        "link": "https:\/\/confx.com\/e\/6682",
         "tags": [
             {
                 "name": "Javascript"
@@ -3118,7 +3118,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6683",
+        "link": "https:\/\/confx.com\/e\/6683",
         "tags": [
             {
                 "name": "Javascript"
@@ -3134,7 +3134,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6684",
+        "link": "https:\/\/confx.com\/e\/6684",
         "tags": [
             {
                 "name": "Javascript"
@@ -3150,7 +3150,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6685",
+        "link": "https:\/\/confx.com\/e\/6685",
         "tags": [
             {
                 "name": "Javascript"
@@ -3166,7 +3166,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6686",
+        "link": "https:\/\/confx.com\/e\/6686",
         "tags": [
             {
                 "name": "Javascript"
@@ -3182,7 +3182,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6687",
+        "link": "https:\/\/confx.com\/e\/6687",
         "tags": [
             {
                 "name": "Javascript"
@@ -3201,7 +3201,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6688",
+        "link": "https:\/\/confx.com\/e\/6688",
         "tags": [
             {
                 "name": "Javascript"
@@ -3217,7 +3217,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6689",
+        "link": "https:\/\/confx.com\/e\/6689",
         "tags": [
             {
                 "name": "Javascript"
@@ -3236,7 +3236,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6690",
+        "link": "https:\/\/confx.com\/e\/6690",
         "tags": [
             {
                 "name": "Javascript"
@@ -3255,7 +3255,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6691",
+        "link": "https:\/\/confx.com\/e\/6691",
         "tags": [
             {
                 "name": "Javascript"
@@ -3271,7 +3271,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6692",
+        "link": "https:\/\/confx.com\/e\/6692",
         "tags": [
             {
                 "name": "Javascript"
@@ -3290,7 +3290,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6693",
+        "link": "https:\/\/confx.com\/e\/6693",
         "tags": [
             {
                 "name": "Javascript"
@@ -3309,7 +3309,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6694",
+        "link": "https:\/\/confx.com\/e\/6694",
         "tags": [
             {
                 "name": "Javascript"
@@ -3325,7 +3325,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6695",
+        "link": "https:\/\/confx.com\/e\/6695",
         "tags": [
             {
                 "name": "Javascript"
@@ -3341,7 +3341,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6696",
+        "link": "https:\/\/confx.com\/e\/6696",
         "tags": [
             {
                 "name": "Javascript"
@@ -3357,7 +3357,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6697",
+        "link": "https:\/\/confx.com\/e\/6697",
         "tags": [
             {
                 "name": "Javascript"
@@ -3376,7 +3376,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6698",
+        "link": "https:\/\/confx.com\/e\/6698",
         "tags": [
             {
                 "name": "Javascript"
@@ -3392,7 +3392,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6699",
+        "link": "https:\/\/confx.com\/e\/6699",
         "tags": [
             {
                 "name": "Javascript"
@@ -3408,7 +3408,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6700",
+        "link": "https:\/\/confx.com\/e\/6700",
         "tags": [
             {
                 "name": "Javascript"
@@ -3427,7 +3427,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6701",
+        "link": "https:\/\/confx.com\/e\/6701",
         "tags": [
             {
                 "name": "Javascript"
@@ -3443,7 +3443,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@fitc",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6893",
+        "link": "https:\/\/confx.com\/e\/6893",
         "tags": [
             {
                 "name": "UX"
@@ -3471,7 +3471,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@fitc",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6894",
+        "link": "https:\/\/confx.com\/e\/6894",
         "tags": [
             {
                 "name": "UX"
@@ -3499,7 +3499,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@AndroidMakersFR",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6895",
+        "link": "https:\/\/confx.com\/e\/6895",
         "tags": [
             {
                 "name": "Android"
@@ -3518,7 +3518,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@droidconberlin",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6896",
+        "link": "https:\/\/confx.com\/e\/6896",
         "tags": [
             {
                 "name": "Android"
@@ -3537,7 +3537,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@droidconbos",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6897",
+        "link": "https:\/\/confx.com\/e\/6897",
         "tags": [
             {
                 "name": "Android"
@@ -3559,7 +3559,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@DroidKaigi",
         "call_for_papers_url": "https:\/\/sessionize.com\/droidkaigi2019",
         "call_for_papers_date": "2018-10-21 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6898",
+        "link": "https:\/\/confx.com\/e\/6898",
         "tags": [
             {
                 "name": "Android"
@@ -3578,7 +3578,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@cssconfeu",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6899",
+        "link": "https:\/\/confx.com\/e\/6899",
         "tags": [
             {
                 "name": "Frontend"
@@ -3597,7 +3597,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@werockitconf",
         "call_for_papers_url": "https:\/\/www.papercall.io\/werockitconf",
         "call_for_papers_date": "2018-11-20 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6900",
+        "link": "https:\/\/confx.com\/e\/6900",
         "tags": [
             {
                 "name": "DevOps"
@@ -3616,7 +3616,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@ConDaysEU",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6901",
+        "link": "https:\/\/confx.com\/e\/6901",
         "tags": [
             {
                 "name": "DevOps"
@@ -3632,7 +3632,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6902",
+        "link": "https:\/\/confx.com\/e\/6902",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -3647,7 +3647,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@TechChill",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6903",
+        "link": "https:\/\/confx.com\/e\/6903",
         "tags": [],
         "city": null
     },
@@ -3659,7 +3659,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@latitude59",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6904",
+        "link": "https:\/\/confx.com\/e\/6904",
         "tags": [],
         "city": null
     },
@@ -3671,7 +3671,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@polycon_io",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6905",
+        "link": "https:\/\/confx.com\/e\/6905",
         "tags": [],
         "city": null
     },
@@ -3683,7 +3683,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@WeAreDevs",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6906",
+        "link": "https:\/\/confx.com\/e\/6906",
         "tags": [],
         "city": null
     },
@@ -3695,7 +3695,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@developer_week",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6907",
+        "link": "https:\/\/confx.com\/e\/6907",
         "tags": [],
         "city": {
             "city_name": "Toronto",
@@ -3710,7 +3710,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@dotGoEu",
         "call_for_papers_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA\/viewform?c=0&w=1",
         "call_for_papers_date": "2019-01-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6908",
+        "link": "https:\/\/confx.com\/e\/6908",
         "tags": [
             {
                 "name": "Go"
@@ -3726,7 +3726,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@godaysio",
         "call_for_papers_url": "https:\/\/talks.godays.io\/godays19\/",
         "call_for_papers_date": "2018-10-07 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6909",
+        "link": "https:\/\/confx.com\/e\/6909",
         "tags": [
             {
                 "name": "Go"
@@ -3742,7 +3742,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@GopherConIndia",
         "call_for_papers_url": "https:\/\/gopherconindia.com\/call-for-proposal\/",
         "call_for_papers_date": "2018-11-30 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6910",
+        "link": "https:\/\/confx.com\/e\/6910",
         "tags": [
             {
                 "name": "Go"
@@ -3761,7 +3761,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@iosconfsg",
         "call_for_papers_url": "https:\/\/www.papercall.io\/iosconfsg",
         "call_for_papers_date": "2018-10-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6911",
+        "link": "https:\/\/confx.com\/e\/6911",
         "tags": [
             {
                 "name": "Android"
@@ -3780,7 +3780,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@dotSwift",
         "call_for_papers_url": "https:\/\/goo.gl\/forms\/T4Z7rTy2RxfhUebd2",
         "call_for_papers_date": "2019-01-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6912",
+        "link": "https:\/\/confx.com\/e\/6912",
         "tags": [
             {
                 "name": "Android"
@@ -3799,7 +3799,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": "https:\/\/skillsmatter.com\/conferences\/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved",
         "call_for_papers_date": "2018-11-26 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6913",
+        "link": "https:\/\/confx.com\/e\/6913",
         "tags": [
             {
                 "name": "Android"
@@ -3821,7 +3821,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@AgentConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6914",
+        "link": "https:\/\/confx.com\/e\/6914",
         "tags": [
             {
                 "name": "Javascript"
@@ -3840,7 +3840,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@heiseonline",
         "call_for_papers_url": "https:\/\/ctwebdev.de\/international.html",
         "call_for_papers_date": "2018-08-31 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6915",
+        "link": "https:\/\/confx.com\/e\/6915",
         "tags": [
             {
                 "name": "Javascript"
@@ -3859,7 +3859,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jsconfhi",
         "call_for_papers_url": "https:\/\/www.jsconfhi.com\/call-for-speakers\/",
         "call_for_papers_date": "2018-08-10 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6916",
+        "link": "https:\/\/confx.com\/e\/6916",
         "tags": [
             {
                 "name": "Javascript"
@@ -3878,7 +3878,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@vuejsamsterdam",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6917",
+        "link": "https:\/\/confx.com\/e\/6917",
         "tags": [
             {
                 "name": "Javascript"
@@ -3894,7 +3894,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@JSKongress",
         "call_for_papers_url": "https:\/\/medium.com\/@jskongress\/we-want-you-for-the-r-evolution-of-architectures-b7a7d40cddd5",
         "call_for_papers_date": "2018-10-14 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6919",
+        "link": "https:\/\/confx.com\/e\/6919",
         "tags": [
             {
                 "name": "Javascript"
@@ -3910,7 +3910,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@EmberConf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6920",
+        "link": "https:\/\/confx.com\/e\/6920",
         "tags": [
             {
                 "name": "Javascript"
@@ -3929,7 +3929,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jsconfeu",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6921",
+        "link": "https:\/\/confx.com\/e\/6921",
         "tags": [
             {
                 "name": "Javascript"
@@ -3945,7 +3945,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jscamp",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6922",
+        "link": "https:\/\/confx.com\/e\/6922",
         "tags": [
             {
                 "name": "Javascript"
@@ -3961,7 +3961,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@forwardJS",
         "call_for_papers_url": "https:\/\/bit.ly\/2Pv0nBu",
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6923",
+        "link": "https:\/\/confx.com\/e\/6923",
         "tags": [
             {
                 "name": "Javascript"
@@ -3977,7 +3977,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@jsheroes",
         "call_for_papers_url": "https:\/\/jsheroes-form.typeform.com\/to\/IHohur",
         "call_for_papers_date": "2018-12-01 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6924",
+        "link": "https:\/\/confx.com\/e\/6924",
         "tags": [
             {
                 "name": "Javascript"
@@ -3996,7 +3996,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@SunshinePHP",
         "call_for_papers_url": "https:\/\/cfp.sunshinephp.com",
         "call_for_papers_date": "2018-09-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6925",
+        "link": "https:\/\/confx.com\/e\/6925",
         "tags": [
             {
                 "name": "PHP"
@@ -4015,7 +4015,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": null,
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6926",
+        "link": "https:\/\/confx.com\/e\/6926",
         "tags": [
             {
                 "name": "Python"
@@ -4034,7 +4034,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@rubyconfindia",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6927",
+        "link": "https:\/\/confx.com\/e\/6927",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4053,7 +4053,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@rubyconf_au",
         "call_for_papers_url": "https:\/\/www.papercall.io\/rubyconf-au-2019",
         "call_for_papers_date": "2018-10-15 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6928",
+        "link": "https:\/\/confx.com\/e\/6928",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4069,7 +4069,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@railsconf",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6929",
+        "link": "https:\/\/confx.com\/e\/6929",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4088,7 +4088,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@southeastruby",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6930",
+        "link": "https:\/\/confx.com\/e\/6930",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4107,7 +4107,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@RubyKaigi",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6931",
+        "link": "https:\/\/confx.com\/e\/6931",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4123,7 +4123,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@rubyoniceconf",
         "call_for_papers_url": "https:\/\/rubyonice.com\/",
         "call_for_papers_date": "2018-10-19 00:00:00",
-        "link": "http:\/\/dev.confx.com\/e\/6932",
+        "link": "https:\/\/confx.com\/e\/6932",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4139,7 +4139,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@brightonruby",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6933",
+        "link": "https:\/\/confx.com\/e\/6933",
         "tags": [
             {
                 "name": "Ruby on Rails"
@@ -4158,7 +4158,7 @@ Awesome list of Dev related conferences in 2019
         "twitter": "@aigadesign",
         "call_for_papers_url": null,
         "call_for_papers_date": null,
-        "link": "http:\/\/dev.confx.com\/e\/6934",
+        "link": "https:\/\/confx.com\/e\/6934",
         "tags": [
             {
                 "name": "UX"
